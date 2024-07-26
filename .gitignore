@@ -1,0 +1,11 @@
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# C
+*.o
+*.lib
+*.a
+*.img
